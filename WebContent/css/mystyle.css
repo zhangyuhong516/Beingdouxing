@@ -1,0 +1,24 @@
+.g-header{font-size:14px;font-family:"Microsoft Yahei"}
+.g-header a{color:#333}
+.g-header .g-wrapper{width:1200px;margin:0 auto;-webkit-box-sizing:border-box;-o-box-sizing:border-box;-ms-box-sizing:border-box;box-sizing:border-box}
+.g-header .g-wrapper:after{content:" ";clear:both;display:table}
+.g-header .navTop{font-size:12px;margin-bottom:28px}.g-header .navTop .info{float:left;padding-top:23px}
+.g-header .navTop .info .logo{float:left;width:174px;height:44px}
+.g-header .navTop .info .logo a{display:block;overflow:hidden}
+.g-header .navTop .info .slogan{float:left;overflow:hidden;width:125px;height:32px;background:url(../sprite/g-header.png) 0 0 no-repeat;text-indent:-99em;top:6px;position:relative}
+.g-header .navTop .info .region{position:relative;float:left;padding:2px}
+.g-header .navTop .info .region:hover{z-index:1000}
+.g-header .navTop .info .region:hover i{background-position:-93px -48px}
+.g-header .navTop .info .region:hover .box{display:block}
+.g-header .navTop .info .region em{float:left;padding:8px 10px;color:#999;cursor:pointer;font-size:16px}
+.g-header .navTop .info .region span{padding-left:2px;cursor:pointer;color:#ff7700;padding:0 5px}
+.g-header .navTop .info .region i{display:inline-block;overflow:hidden;margin-right:3px;width:10px;height:8px;background:url(../sprite/g-header.png?v005) no-repeat -93px -40px}
+.g-header .navTop .info .region .box{position:absolute;top:42px;left:12px;display:none;padding:8px 12px;width:336px;border:1px solid #0181cc;background:#fff;-webkit-box-shadow:0 1px 2px rgba(0,0,0,0.5);box-shadow:0 1px 2px rgba(0,0,0,0.5)}
+.g-header .navTop .info .region ul li{float:left;padding:5px 10px}
+.g-header .navTop .info .region ul li.unlimted{width:100%}
+.g-header .navTop .info .region ul li a{color:#0081cc}
+.g-header .navTop .info .region ul li a:hover{color:#f70}
+.g-header .navTop .links{float:right;padding-top:16px}
+.g-header .navTop .links>ul{float:left}
+.g-header .navTop .links ul li{float:left;padding:7px 0 7px 20px;color:#999;position:relative}
+.g-header .navTop .links ul li a>i{display:inline-block;vertical-align:-2px;margin-right:4px;width:12px;height:14px;background:url(../sprite/g-header.png) no-repeat}

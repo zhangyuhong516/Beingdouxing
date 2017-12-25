@@ -1,0 +1,46 @@
+article,aside,audio,blockquote,body,button,canvas,code,dd,details,div,dl,dt,fieldset,figcaption,figure,footer,form,h1,h2,h3,h4,h5,h6,header,hgroup,input,legend,li,main,nav,ol,p,pre,section,summary,td,textarea,th,ul,video{margin:0;padding:0}
+        article,aside,details,figcaption,figure,footer,header,hgroup,main,nav,section,summary{display:block}
+        audio,canvas,video{display:inline-block}
+        audio:not([controls]){display:none;height:0}
+        [hidden]{display:none;visibility:hidden}
+        html{-webkit-text-size-adjust:100%;-ms-text-size-adjust:100%;-webkit-tap-highlight-color:transparent}
+        abbr[title]{cursor:help;border-bottom:1px dotted}
+        b,strong{font-weight:700}
+        code,kbd,pre,samp{font-family:monospace,serif;font-size:1em}
+        del{font-family:Arial}
+        img{vertical-align:middle;border:0}
+        li{list-style:none}
+        mark{background:#ff0;color:#000}
+        pre{white-space:pre-wrap}
+        blockquote:after,blockquote:before,q:after,q:before{content:""}
+        sub,sup{position:relative;font-size:75%;line-height:0;vertical-align:baseline}
+        sup{top:-.5em}
+        sub{bottom:-.25em}
+        svg:not(:root){overflow:hidden}
+        address,caption,cite,dfn,em,i,q,th{font-weight:400;font-style:normal}
+        h1,h2,h3,h4,h5,h6,small{font-size:100%}
+        table{border-collapse:collapse;border-spacing:0}
+        th{font-weight:700}
+        fieldset,legend{border:0}
+        button,html input[type=button],input[type=reset],input[type=submit]{-webkit-appearance:button;cursor:pointer}
+        button[disabled],html input[disabled]{cursor:default}
+        button,input,select,select optgroup,textarea{font-family:inherit;font-size:inherit;font-style:inherit;line-height:inherit;vertical-align:middle}
+        button,input,select[multiple],textarea{background-image:none}
+        button::-moz-focus-inner,input::-moz-focus-inner{border:0;padding:0}
+        input[type=search]::-webkit-search-cancel-button,input[type=search]::-webkit-search-decoration{-webkit-appearance:none}
+        input[type=number]::-webkit-inner-spin-button,input[type=number]::-webkit-outer-spin-button{height:auto}
+        textarea{overflow:auto;vertical-align:top}
+        body{font:14px/1.5"Microsoft Yahei",Arial,Tahoma,sans-serif;color:#666;background-color:#fff;}
+        h1,h2,h3,h4,h5,h6{color:#333}
+        a{cursor:pointer;color:#0081cc;text-decoration:none;-moz-outline:0}
+        a:hover{color:#f70;text-decoration:underline}
+        a:focus{outline:thin dotted#252525;outline:5px auto-webkit-focus-ring-color;outline-offset:-2px}
+        div.grid-header{padding-top:48px;overflow: hidden;margin-bottom: 90px;}
+        div.grid-page{max-width: 1200px;margin: 0 auto;padding: 0 88px;box-sizing: border-box;min-width:640px}
+        h2.logo{float: left}
+        div.grid-body{text-align: center;}
+        div.grid-body p{color:#1c4a8b;font-size: 30px;padding-top: 20px;margin-bottom: 20px;}
+        div.grid-body a{font-size: 16px;color:#fff;line-height: 36px;text-align: center;width: 110px;background: #2662b8;border-radius: 18px;display: inline-block;text-decoration: none;}
+        div.grid-body a:hover{background:#114287;}
+        div.grid-footer{padding-top:120px;text-align: center;margin-bottom: 130px;}
+        div.grid-footer a,div.grid-footer p{color:#999}</style>
